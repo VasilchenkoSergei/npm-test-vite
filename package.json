@@ -1,8 +1,21 @@
 {
   "name": "npm-test-vite",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Vasilchenko Sergei",
+  "license": "ISC",
+  "homepage": "https://github.com/VasilchenkoSergei/npm-test-vite",
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasilchenkoSergei/npm-test-vite.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
